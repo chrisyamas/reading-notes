@@ -22,3 +22,5 @@ I can keep myself in a growth mindset by:
 
 ![IMG_1052](https://user-images.githubusercontent.com/44851813/150867414-e8299e6b-9c40-452a-ae00-ae8fceda94db.jpg)
 ^^Hey that's me!
+![IMG_AF9EF2B58603-1](https://user-images.githubusercontent.com/44851813/150867799-95684367-8286-4d75-89cd-7af3664a33ef.jpeg)
+^^Hey that's my dog (her name is Spektor)!
