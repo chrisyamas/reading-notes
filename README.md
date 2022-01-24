@@ -20,4 +20,5 @@ I can keep myself in a growth mindset by:
 ## About the Author...
 #### My name is Christopher Yamas (he/him) and you can find my GitHub portfolio page at https://github.com/chrisyamas
 
-! [picture of me] (https://ibb.co/xGRZxDN)
+![IMG_1052](https://user-images.githubusercontent.com/44851813/150867414-e8299e6b-9c40-452a-ae00-ae8fceda94db.jpg)
+^^Hey that's me!
