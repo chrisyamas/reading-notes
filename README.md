@@ -3,7 +3,7 @@
 #### My name is Christopher Yamas (he/him) and you can find my GitHub portfolio page at https://github.com/chrisyamas
 ##### Let's talk about ***Growth Mindset***!
 
-Growth mindset is an active embrace of the concept of **brain elasticity**. By recognizing that intelligence and talent is *not a fixed constant*, but rather a variable we can affect by devoting time, attention, and effort, we can remember that growth is highly attainable.
+Growth Mindset is an active embrace of the concept of **brain elasticity**. By recognizing that intelligence and talent is *not a fixed constant*, but rather a variable we can affect by devoting time, attention, and effort, we can remember that growth is highly attainable.
 
 To quote the late and great Audrey Hepburn,
 > Nothing is impossible. The word itself says "I'm possible."
