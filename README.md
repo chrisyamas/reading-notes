@@ -18,7 +18,7 @@ I can keep myself in a growth mindset by:
    - I cannot learn from my mistakes if I can't recognize them. Other people can see things I can't, so feedback is a golden opportunity for learning and growing.
 
 ## About the Author...
-#### My name is Christopher Yamas (he/him) and you can find my GitHub portfolio page at https://github.com/chrisyamas
+#### My name is Christopher Yamas (he/him) and I'm ***very*** new to this whole coding thing. I'm a political operative turned software student. If you wanna see a real nascent work in progress, you can find my GitHub portfolio page at https://github.com/chrisyamas.
 
 ![IMG_1052](https://user-images.githubusercontent.com/44851813/150867414-e8299e6b-9c40-452a-ae00-ae8fceda94db.jpg)
 ^^Hey that's me!
