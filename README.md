@@ -18,6 +18,7 @@ I can keep myself in a growth mindset by:
    - I cannot learn from my mistakes if I can't recognize them. Other people can see things I can't, so feedback is a golden opportunity for learning and growing.
 
 [Reflection & Discussion - Read 01](https://chrisyamas.github.io/reading-notes/reflection-and-discussion.md)
+
 [The Coder's Computer - Read 02](https://chrisyamas.github.io/reading-notes/the-coders-computer.md)
 
 ## About the Author...
