@@ -1,7 +1,7 @@
 # reading-notes
 ## Notes on, and reminders for, growth mindset.
 
-### Let's talk about ***Growth Mindset***!
+### Let's talk about ***Growth Mindset!***
 
 Growth Mindset is an active embrace of the concept of **brain elasticity**. By recognizing that intelligence and talent is *not a fixed constant*, but rather a variable we can affect by devoting time, attention, and effort, we can remember that growth is highly attainable.
 
