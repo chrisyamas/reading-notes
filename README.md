@@ -17,6 +17,8 @@ I can keep myself in a growth mindset by:
 3. ***Embracing feedback*** and constructive criticism
    - I cannot learn from my mistakes if I can't recognize them. Other people can see things I can't, so feedback is a golden opportunity for learning and growing.
 
+[Reflection & Discussion - Lab01](https://chrisyamas.github.io/reading-notes/reflection-and-discussion.md)
+
 ## About the Author...
 #### My name is Christopher Yamas (he/him) and I'm ***very*** new to this whole coding thing. I'm a political operative turned software student. If you wanna see a real nascent work in progress, check out [my GitHub portfolio page](https://github.com/chrisyamas).
 
