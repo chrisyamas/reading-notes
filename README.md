@@ -1,5 +1,4 @@
 # reading-notes
-## Notes on, and reminders for, growth mindset.
 
 ### Let's talk about ***Growth Mindset!***
 
