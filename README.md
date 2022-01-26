@@ -1,24 +1,4 @@
-# reading-notes
-
-### Let's talk about ***Growth Mindset!***
-
-Growth Mindset is an active embrace of the concept of **brain elasticity**. By recognizing that intelligence and talent is *not a fixed constant*, but rather a variable we can affect by devoting time, attention, and effort, we can remember that growth is highly attainable.
-
-To quote the late and great Audrey Hepburn,
-> Nothing is impossible. The word itself says "I'm possible."
-
-I can keep myself in a growth mindset by:
-
-1. Reminding myself that ***every challenge can be a growth experience*** (if I embrace it!)
-   - In fact, the most frustrating challenges will be the best learning experiences...if I persist.
-2. ***Finding inspiration*** in the success of others
-   - Be motivated to get better, and even learn from those around me so I can get to their level!
-3. ***Embracing feedback*** and constructive criticism
-   - I cannot learn from my mistakes if I can't recognize them. Other people can see things I can't, so feedback is a golden opportunity for learning and growing.
-
-[Reflection & Discussion - Read 01](https://chrisyamas.github.io/reading-notes/reflection-and-discussion.md)
-
-[The Coder's Computer - Read 02](https://chrisyamas.github.io/reading-notes/the-coders-computer.md)
+# Christopher's Main Page
 
 ## About the Author...
 #### My name is Christopher Yamas (he/him) and I'm ***very*** new to this whole coding thing. I'm a political operative turned software student. If you wanna see a real nascent work in progress, check out [my GitHub portfolio page](https://github.com/chrisyamas).
@@ -27,3 +7,8 @@ I can keep myself in a growth mindset by:
 ^^Hey that's me!
 ![IMG_AF9EF2B58603-1](https://user-images.githubusercontent.com/44851813/150867799-95684367-8286-4d75-89cd-7af3664a33ef.jpeg)
 ^^Hey that's my dog (her name is Spektor)!
+
+## Table of Contents
+- [Reflection & Discussion - Read 01](https://chrisyamas.github.io/reading-notes/reflection-and-discussion.md)
+- [Growth Mindset & Learning Markdown - Lab 01](https://chrisyamas.github.io/reading-notes/growth-mindset-lab01.md)
+- [The Coder's Computer - Read 02](https://chrisyamas.github.io/reading-notes/the-coders-computer.md)
