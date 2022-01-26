@@ -8,7 +8,7 @@
 ![IMG_AF9EF2B58603-1](https://user-images.githubusercontent.com/44851813/150867799-95684367-8286-4d75-89cd-7af3664a33ef.jpeg)
 ^^Hey that's my dog (her name is Spektor)!
 
-## Table of Contents
+# Table of Contents
 - [Reflection & Discussion - Read 01](https://chrisyamas.github.io/reading-notes/reflection-and-discussion.md)
 - [Growth Mindset & Learning Markdown - Lab 01](https://chrisyamas.github.io/reading-notes/growth-mindset-lab01.md)
 - [The Coder's Computer - Read 02](https://chrisyamas.github.io/reading-notes/the-coders-computer.md)
