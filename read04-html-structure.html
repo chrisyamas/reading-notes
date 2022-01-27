@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Notes on HTML Webpage Structure</title>
+    </head>
+    <body>
+        <h1>Class 4 Reading Notes</h1>
+        <h2>
+            <ul>
+                <li>Wireframe & Design</li>
+                <li>Mozilla HTML Basics</li>
+                <li>Semantics</li>
+            </ul>
+        </h2>
+        <h3>Wireframe & Design</h3>
+        <p>Notes on the high-level process to follow in making a new site...<p>
+        <p>Always start with diagrams (it can even be on hard copy with pen and paper) before you jump into code-building. Thinking about the layout of your site (and especially how the user will interact with it) is the crucial first step in determining what HTML formatting, CSS styling, and JavaScript interactivity (as well as any other programming tools and features) you will want to incorporate into your code.</p>
+        <p>It's all about the layout that will facilitate the kind of interaction you want users to have on your page.</p>
+        <p>In addition to pen + paper, there are great wireframing software tools available online like Invision or Balsamiq. Personally, I'm enjoying the functionality of Miro (the wireframing software partnered with Code Fellows' HeroKu Virtual Lab Space).</p>
+        <p>The Career Foundry (CF) article on the wireframing process recommends the following six steps:
+            <ol>
+                <li>Do your research
+                    <ul>
+                        <li>Google examples of UX design and see how others are doing it (i.e. what are the industry trends and best practices?)</li>
+                    </ul>
+                </li>
+                <li>Prepare your research for quick reference
+                    <ul>
+                        <li>Make a cheatsheet with your goals and requirements for the site, as well as other interesting features you discovered while searching around.</li>
+                    </ul>
+                </li>
+                <li>Make sure you have your user flow mapped out
+                    <ul>
+                        <li>The term is "information architecture" baby, and its about making sure your webpage users have an easy and intuitive experience navigating your site. Put yourself in their shoes: think about where a users eyes will go first, and then follow it through the whole process, mapping out each step of where they might want to go. Do unto your users as you'd like done unto you!</li>
+                    </ul>
+                </li>
+                <li>Draft, don't draw. Sketch, don't illustrate
+                    <ul>
+                        <li>Put pen to paper (or the virtual equivalent)! Don't get lost in the details or aesthetics: don't even think about 'em. Just think about the big layout, information areas, buttons, touch points, etc. that user will need.</li>
+                    </ul>
+                </li>
+                <li>Add some detail and get testing
+                    <ul>
+                        <li>If the wireframe is the skeleton of the page design, CF's Rosie Allabarton asks us to think of this step as adding the "ligaments and tendons that will connect form and functionality". Here is where you think about "usability conventions" like having a search box on the top right, the wording of simple calls-to-action, or other elements that will build trust with the user and where to place those elements.</li>
+                    </ul>
+                </li>
+                <li>Start turning your wireframes into protypes
+                    <ul>
+                        <li>High-fidelity time, my friend. This is where the rubber meets the road and we go from wireframing to prototyping.The CF article recommends some "slick tools" for this stage like Proto.io, Adobe XD, and Framer but says the most well-known are Sketch and (the newer) Figma. Ideally you're not just adding in high-fidelity elements but also engaging in some user testing at this point.</li>
+                    </ul>
+                </li>
+            </ol>
+        </p>
+        <h3>Mozilla HTML Basics</h3>
+        <p>HTML stands for HyperText Markup Language, and its how most of the web is formatted/structured.</p>
+        <p>
+            There are five main aspects to an HTML element. They are:
+            <ol>
+                <li>The opening tag
+                    <ul>
+                        <li>this includes the name of the element (such as 'p' in the case of the paragraph element) enclosed in angle brackets. For example, the opening tag of the paragraph element would look like &lt;p&gt;.</li>
+                    </ul>
+                </li>
+                <li>The closing tag
+                    <ul>
+                        <li>same as the opening tag, but has a forward slash right before the element name. For example, the paragraph element closing tag would be &lt;/p&gt;.</li>
+                    </ul>
+                </li>
+                <li>The content
+                    <ul>
+                        <li>The text in between the tags. It's the substance of what will show up on your page. For example putting the words "Christopher Is Tired" between the paragraph element tags would make those three words appear as their own paragraph on the webpage.</li>
+                    </ul>
+                </li>
+                <li>The element
+                    <ul>
+                        <li>Comprised of the opening tag, content, and closing tag, all together. Going along with the above example, the element would in the code like &lt;p&gt;Christopher Is Tired&lt;/p&gt;.</li>
+                    </ul>
+                </li>
+                <li>The attribute
+                    <ul>
+                        <li>While not a NECESSARY part of an HTML element, attributes apply extra info to the element that won't directly appear in the webpage but is useful to other functions within the code. It attributes a name (such as `class`) and a value (such as `editor-note`).</li>
+                        <li>Attributes should always have:
+                            <ol>
+                                <li>a space between it and the name of the element (or between it and any prior element in the case of multiple attributes)</li>
+                                <li>attribute name followed by equal sign (=)</li>
+                                <li>attribute value within quotation marks ("valueExample")</li>
+                            </ol>
+                        </li>
+                    </ul>
+                </li>
+            </ol>
+        </p>
+        <p>That comprises the anatomy of an HTML element. The MDN Web Docs article goes on to discuss nesting elements, empty elements, the anatomy (or basic structure) of an HTML document, images, text markups (including headings, paragraphs, and lists), and the inclusion of links. <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">Speaking of...click this if you want to refer to that MDN Web Docs article</a>!
+        </p>
+        <h3>Semantics</h3>
+        <p>Each piece of a coding document (ideally) possesses meaning. This is the "why" of it all. What effect will a line have on the web product? What is its role or purpose?</p>
+        <p>Semantic elements perform functions while also expressing the meaning of the functions to those viewing the code. For instance, a coder could us CSS to adjust text to have a particular `font-size` and `margin` to make it look like top line header size content. But HTML has the semantic element of &lt;h1&gt; which both performs that function, while providing meaning ("h1" meaning 1st level sized header content).</p>
+        <p><a href="https://developer.mozilla.org/en-US/docs/Glossary/Semantics">The MDN article on Semantics</a> says that they are roughly 100 semantic elements available, and it lists some (which include &lt;header&gt;, &lt;main&gt;, and &lt;summary&gt; to name a few).
+    </body>
+</html>
