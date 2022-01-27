@@ -17,3 +17,4 @@ hey look, some new content
 - [Reflection & Discussion - Read 01](https://chrisyamas.github.io/reading-notes/reflection-and-discussion.md)
 - [Growth Mindset & Learning Markdown - Lab 01](https://chrisyamas.github.io/reading-notes/growth-mindset-lab01.md)
 - [The Coder's Computer - Read 02](https://chrisyamas.github.io/reading-notes/the-coders-computer.md)
+- [HTML Structure - Read 04](https://chrisyamas.github.io/reading-notes/read04-html-structure.html)
