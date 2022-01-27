@@ -19,3 +19,4 @@ hey look, some new content
 - [The Coder's Computer - Read 02](https://chrisyamas.github.io/reading-notes/the-coders-computer.md)
 - [HTML Structure - Read 04](https://chrisyamas.github.io/reading-notes/read04-html-structure.html)
 - [CSS Webpage Design - Read 05](https://chrisyamas.github.io/reading-notes/read05-css-webpage-design.md)
+- [JavaScript Dynamic Webpages - Read 06](https://chrisyamas.github.io/reading-notes/read06-javascript.md)
