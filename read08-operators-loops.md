@@ -58,3 +58,5 @@ while (n < 3) {
 - after completing the third pass, the condition `n < 3` is no longer `true`, so the loop terminates.
 
 
+WHILE vs FOR
+- While - count / until ; For - loop through x number until hitting limit of x ?
