@@ -20,3 +20,4 @@ hey look, some new content
 - [HTML Structure - Read 04](https://chrisyamas.github.io/reading-notes/read04-html-structure.html)
 - [CSS Webpage Design - Read 05](https://chrisyamas.github.io/reading-notes/read05-css-webpage-design.md)
 - [JavaScript Dynamic Webpages - Read 06](https://chrisyamas.github.io/reading-notes/read06-javascript.md)
+- [Programming with JavaScript - Read 07](https://chrisyamas.github.io/reading-notes/read07-jsprogramming.md)
