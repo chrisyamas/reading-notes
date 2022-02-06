@@ -1,4 +1,4 @@
-# Christopher's Main Page
+# Christopher's Reading Notes
 
 ## This is my page of Reading Notes for all of my Code Fellows courses
 ### About the Author...
