@@ -25,3 +25,5 @@ hey look, some new content
 - [Programming with JavaScript - Read 07](https://chrisyamas.github.io/reading-notes/read07-jsprogramming.md)
 - [Operators and Loops - Read 08](https://chrisyamas.github.io/reading-notes/read08-operators-loops.md)
 ## Code 201 Reading Notes
+- [Introductory HTML & JavaScript](https://chrisyamas.github.io/reading-notes/class-01.md)
+- [HTML Text, CSS Introduction, & Basic JavaScript Instructions](https://chrisyamas.github.io/reading-notes/class-02.md)
