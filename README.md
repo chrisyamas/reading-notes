@@ -43,4 +43,24 @@ hey look, some new content
   
 ## Code 301 - Intermediate Software Development
 
+- [Introduction to React and Components](./301-class-01.md)
+- [State and Props](./301-class-02.md)
+- [Passing Functions as Props](./301-class-03.md)
+- [React and Forms](./301-class-04.md)
+- [Thinking in React & Higher Order Functions](./301-class-05.md)
+- [NODE.JS & Paired Programming](./301-class-06.md)
+- [REST](./301-class-07.md)
+- [APIs](./301-class-08.md)
+- [Functional Programming](./301-class-09.md)
+- [Memory Storage](./301-class-10.md)
+- [Mongo and Mongoose](./301-class-11.md)
+- [CRUD](./301-class-12.md)
+- [More CRUD](./301-class-13.md)
+- [Diversity and Inclusion in the Tech Industry](./301-class-14.md)
+- [Authentication](./301-class-15.md)
+
 ## Code 401 - Advanced Software Development
+
+- [Pain/Suffering & Big O](./401-class-01.md)
+- [Testing and Modules](./401-class-02.md)
+- [FileIO & Exceptions](./401-class-03.md)
